@@ -82,27 +82,6 @@
 
 * **HTTP Request vs HTTP Long-Polling vs WebSockets** - [Lear from here](https://www.youtube.com/watch?v=k56H0DHqu5Y)
 
-### Android Unit Testing
-* **What is Espresso?** - [Learn from here](https://developer.android.com/training/testing/ui-testing/espresso-testing.html)
-
-* **What is Robolectric?** - [Learn from here](http://robolectric.org/)
-
-* **What are the disadvantages of using Robolectric?** - [Learn from here](https://stackoverflow.com/questions/18271474/robolectric-vs-android-test-framework) 
-
-* **What is UI-Automator?** - [Learn from here](https://developer.android.com/training/testing/ui-testing/uiautomator-testing.html)
-
-* **Explain unit test.** - [Learn from here](https://developer.android.com/training/testing/unit-testing/local-unit-tests)
-
-* **Explain instrumented test.** - [Learn from here](https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests)
-
-* **Have you done unit testing or automatic testing?**
-
-* **Why Mockito is used?** - [Learn from here](http://site.mockito.org/)
-
-* **Describe JUnit test.** - [Learn from here](https://en.wikipedia.org/wiki/JUnit)
-
-* **Describe code coverage.** - [Learn from here](https://blog.mindorks.com/generate-global-code-coverage-report-in-android-development-using-jacoco-plugin)
-
 ### Java and Kotlin
 
 #### OOP
